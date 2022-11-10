@@ -1,12 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+title: "1st post"
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 
 # 1st Post
 
@@ -18,9 +13,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 * three
 * four
 
+
+
 ## Code
 
 this is a code block
 ```javascript
 console.log('hello world');
 ```
+
+## Photos
+
+![img-description](/smiley-face-skull-tony-rubino.jpeg)
+
+
